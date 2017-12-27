@@ -1,0 +1,2 @@
+# sgminer
+AMD Miners
